@@ -8,9 +8,4 @@ Learning React Native by Building a Weather App☀️🌦🌨☃️
 
 ### Preview
 
-![ex1](./ScreenImage/ex1.png)
-
-![ex1](./ScreenImage/ex2.png)
-
-![ex1](./ScreenImage/ex3.png)
-![ex1](./ScreenImage/ex4.png)
+![ex1](./ScreenImage/screenImage.png)
